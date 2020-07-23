@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
       "title": "TESTooooooooooooooooooooowo"
@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "token":
+  {
+    "Id": "we@#$rtyu655432#WERTYui876543werTY",
+    "Username": "Admin",
+    "Email": "admin@lst.pl",
+    "Token": "DFGUI&^%$^&*(**&T^RREYTUITRESEDFgyuhiUTrdftyguiuytredrftyg7654e6tt765e4drtfy77654ty^^%%$DY*U7654YU&&^^%$serdtfyuhu765esdrtuhI&^5DFGUI&^%$^&*(**&T^RREYTUITRESEDFgyuhiUTrdftyguiuytredrftyg7654e6tt765e4drtfy77654ty^^%%$DY*U7654YU&&^^%$serdtfyuhu765esdrtuhI&^5"
   }
 }
